@@ -1,4 +1,6 @@
-# Comparing Feature Selection using Random Forest and Recursive Feature Elimination - Random Forest
+# Random Forest and RFE-RF
+Comparing Feature Selection using Random Forest and Recursive Feature Elimination - Random Forest
+
 ## Resume
 This code was made to compare these two algorithms of feature selection.
 
