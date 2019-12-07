@@ -19,8 +19,8 @@ Recursive Feature Elimination - RF:
 * The model spent much time to calculate the results.
 
 ## Conclusion
-RF is a good model when the dataset has no correlated features.
-RFE-RF is a good model to avoid the correlation problem.It's a good choice when the dataset is not large
+* RF is a good model when the dataset has no correlated features.
+* RFE-RF is a good model to avoid the correlation problem.It's a good choice when the dataset is not large
 
 ## References
 * Random Forest in R - Classification and Prediction Example with Definition & Steps: https://www.youtube.com/watch?v=dJclNIN-TPo
