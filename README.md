@@ -26,5 +26,5 @@ RFE-RF is a good model to avoid the correlation problem.It's a good choice when 
 * Random Forest in R - Classification and Prediction Example with Definition & Steps: https://www.youtube.com/watch?v=dJclNIN-TPo
 * Recursive Feature Elimination: http://ml-tutorials.kyrcha.info/rfe.html
 
-# Author
+## Author
 Patricia Drapal
